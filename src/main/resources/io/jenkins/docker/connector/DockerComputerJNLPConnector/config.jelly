@@ -5,7 +5,7 @@
         <span class="info">Prerequisites:</span>
         <ul>
             <li>
-                Jenkins master has to be accessible over network <em>from</em> the container.
+                Jenkins controller has to be accessible over network <em>from</em> the container.
             </li>
             <li>
                 Docker image must have <a href="https://go.java">Java</a> installed.

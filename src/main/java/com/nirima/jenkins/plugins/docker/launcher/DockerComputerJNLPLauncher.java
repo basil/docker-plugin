@@ -9,7 +9,7 @@ import io.jenkins.docker.connector.DockerComputerJNLPConnector;
  * <p>
  * Steps:
  * - runs container with nop command
- * - as launch action executes jnlp connection to master
+ * - as launch action executes jnlp connection to controller
  * </p>
  *
  * @author Kanstantsin Shautsou

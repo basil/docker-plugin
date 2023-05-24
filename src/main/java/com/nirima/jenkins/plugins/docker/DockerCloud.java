@@ -519,7 +519,7 @@ public class DockerCloud extends Cloud {
     /**
      * Adds a template which is temporary provided and bound to a specific job.
      *
-     * @param jobId Unique id (per master) of the job to which the template is bound.
+     * @param jobId Unique id (per controller) of the job to which the template is bound.
      * @param template The template to bound to a specific job.
      */
     public synchronized void addJobTemplate(long jobId, DockerTemplate template) {

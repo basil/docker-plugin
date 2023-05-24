@@ -7,7 +7,7 @@
             <li>
                 The docker container's mapped SSH port,
                 typically a port on the docker host,
-                has to be accessible over network <em>from</em> the master.
+                has to be accessible over network <em>from</em> the controller.
             </li>
             <li>
                 Docker image must have
